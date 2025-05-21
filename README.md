@@ -18,7 +18,7 @@ Write a program to:
 
 ### ✅ Constraints:
 
-- \( 1 \leq n \leq 10^6 \)
+- 1 ≤ n ≤ 10^6
 
 ### 🔢 Sample Input
 
