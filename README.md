@@ -66,6 +66,10 @@ HackerRank - Day 10: Binary Numbers
 
 21st May 2025
 
+### 🔖 Tags
+
+#Python #HackerRank #BinaryNumbers #30DaysOfCode #ProblemSolving #Day10Challenge
+
 ### ✍ Author
 
 Harsha M
@@ -73,10 +77,4 @@ Harsha M
 GitHub: @Harshaharika7
 
 LinkedIn: Harsha M
-
-### 🔖 Tags
-
-#Python #HackerRank #BinaryNumbers #30DaysOfCode #ProblemSolving #Day10Challenge
-
-
 
