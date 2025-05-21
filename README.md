@@ -10,11 +10,11 @@ Given a base-10 integer `n`, convert it to binary (base-2) and determine the **m
 
 Write a program to:
 
-1. Convert an integer `n` to binary
+ 1. Convert an integer `n` to binary
 
-2. Identify groups of consecutive `1`s
+ 2. Identify groups of consecutive `1`s
 
-3.Output the **length** of the longest group
+ 3.Output the **length** of the longest group
 
 ### ✅ Constraints:
 
