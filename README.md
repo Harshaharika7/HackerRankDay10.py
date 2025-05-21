@@ -14,7 +14,7 @@ Write a program to:
 
  2. Identify groups of consecutive `1`s
 
- 3.Output the **length** of the longest group
+ 3. Output the **length** of the longest group
 
 ### ✅ Constraints:
 
